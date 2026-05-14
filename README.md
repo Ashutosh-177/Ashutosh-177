@@ -77,9 +77,10 @@ I focus on building **practical, reliable systems** end-to-end: from a clean UI 
 
 </div>
 
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ashutosh-177&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://streak-stats.demolab.com?user=Ashutosh-177&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true"/>
 
 </div>
 
