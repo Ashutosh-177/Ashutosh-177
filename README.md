@@ -81,5 +81,5 @@ I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/
 <sub>Silicon to software — building systems that work.</sub>
 
 </div>
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Ashutosh-177&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
