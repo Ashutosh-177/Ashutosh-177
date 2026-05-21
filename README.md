@@ -58,8 +58,6 @@ I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/
 &nbsp;&nbsp;
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img src="https://streak-stats.demolab.com?user=Ashutosh-177&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
 </div>
 
 ---
@@ -81,5 +79,6 @@ I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/
 <sub>Silicon to software — building systems that work.</sub>
 
 </div>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Ashutosh-177&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
