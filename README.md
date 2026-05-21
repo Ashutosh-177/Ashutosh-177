@@ -50,18 +50,6 @@ I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/
 
 ---
 
-### Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-177&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
 ### Currently Working On
 
 - Autonomous robotics — sim-to-real with ROS2 and multi-sensor fusion  
