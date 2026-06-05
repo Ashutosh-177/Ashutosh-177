@@ -19,8 +19,8 @@ Engineer who works across the full stack — from browser UIs to bare-metal firm
 
 I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/C++, ATmega, ESP32), and **robotic platforms** (ROS2, LiDAR, Jetson Nano). I care about systems that are practical, reliable, and well-engineered end-to-end.
 
-- 🎓 B.Tech in ICT (VLSI & Embedded Systems) @ Marwadi University — CGPA 8.42
-- 🔬 Research Intern @ DRDO · Published in DRDO Technology Focus (Jan 2026)
+- 🎓 B.Tech in ICT @ Marwadi University — CGPA 8.42
+- 🔬 Research Intern @ DRDO 
 - 📜 Patent Holder — LPG Cylinder Monitoring & Leak Alert System (No. 202421033238)
 - 🌐 Open source contributor to **aiohttp** and **Memori**
 
