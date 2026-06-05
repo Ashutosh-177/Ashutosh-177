@@ -98,19 +98,6 @@ I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-177&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-177&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-177&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-</div>
-
 ---
 
 ### Currently Working On
