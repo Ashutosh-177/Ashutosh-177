@@ -1,17 +1,20 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ashutosh+Kumar+Singh;Software+%C2%B7+Embedded+%C2%B7+Robotics;Open+Source+Contributor+%C2%B7+Patent+Holder" alt="Typing SVG" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A66C2&height=180&section=header&text=Ashutosh%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%C2%B7%20Embedded%20%C2%B7%20Robotics&descSize=18&descAlignY=58" alt="header" />
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Full-Stack+%C2%B7+Firmware+%C2%B7+Autonomous+Robots;Open+Source+Contributor+%C2%B7+Patent+Holder;Silicon+to+software+%E2%80%94+systems+that+work" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-singh-255506287/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashutoshkumarsingh1067@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashutoshhjp1067@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=Ashutosh-177&color=00d4ff&style=flat-square&label=Views)
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
 
 ### About
 
@@ -20,11 +23,11 @@ Engineer who works across the full stack — from browser UIs to bare-metal firm
 I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/C++, ATmega, ESP32), and **robotic platforms** (ROS2, LiDAR, Jetson Nano). I care about systems that are practical, reliable, and well-engineered end-to-end.
 
 - 🎓 B.Tech in ICT @ Marwadi University — CGPA 8.42
-- 🔬 Research Intern @ DRDO 
+- 🔬 Research Intern @ DRDO
 - 📜 Patent Holder — LPG Cylinder Monitoring & Leak Alert System (No. 202421033238)
 - 🌐 Open source contributor to **aiohttp** and **Memori**
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
 
 ### Tech
 
@@ -40,7 +43,7 @@ I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
 
 ### 🌐 Open Source Contributions
 
@@ -83,7 +86,7 @@ I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/
   </tr>
 </table>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
 
 ### Projects
 
@@ -96,27 +99,51 @@ I build **web applications** (JavaScript, PHP, Python), **embedded systems** (C/
 | **Sound-Activated Control** | Event-driven system with IMU-based response triggered by sound | ATmega32 · MPU6050 · Embedded C |
 | **RF Wireless Load Control** | Wireless electrical load switching via encoder–decoder RF | HT12E/D · 433 MHz · Relays |
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
 
----
+### 📊 GitHub Stats
 
-### Currently Working On
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-177&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-177&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-177&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<br/>
+
+<!-- Animated Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-177&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+
+</div>
+
+<!-- Contribution Snake (requires snake GitHub Action — see note below) -->
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Ashutosh-177/Ashutosh-177/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
+
+### 🚀 Currently Working On
 
 - Autonomous robotics — sim-to-real with ROS2 and multi-sensor fusion
 - ML integration into web applications
 - Embedded system design and VLSI fundamentals
 - DSA and competitive programming
 
----
+<br/>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-singh-255506287/)
-[![Email](https://img.shields.io/badge/Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshkumarsingh1067@gmail.com)
-
-<sub>Silicon to software — building systems that work.</sub>
+[![Email](https://img.shields.io/badge/Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshhjp1067@gmail.com)
 
 </div>
+
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00D4FF&height=120&section=footer&text=Silicon%20to%20software&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer" />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Ashutosh-177&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
