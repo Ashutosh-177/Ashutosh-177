@@ -11,7 +11,6 @@
 
 I build **web applications**, **embedded systems**, and **robotic platforms**, and I care about systems that are practical, reliable, and well-engineered end-to-end.
 
-- 💼 **AI, ML & Robotics Engineer** @ **SourceSoft Solutions**
 - 🎓 B.Tech in ICT @ Marwadi University — CGPA 8.42
 - 🔬 **Ex-Research** Intern @ DRDO
 - 📜 **Patent Holder** — LPG Cylinder Monitoring & Leak Alert System (No. 202421033238)
