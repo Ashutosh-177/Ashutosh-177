@@ -7,16 +7,15 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="coding" />
 
-## Hi, I'm Ashutosh 👋
-
-Engineer who works across the full stack — from browser UIs to bare-metal firmware and autonomous robots.
+## Hi, I'm Ashutosh
 
 I build **web applications**, **embedded systems**, and **robotic platforms**, and I care about systems that are practical, reliable, and well-engineered end-to-end.
 
+- 💼 **AI, ML & Robotics Engineer** @ **SourceSoft Solutions**
 - 🎓 B.Tech in ICT @ Marwadi University — CGPA 8.42
-- 🔬 Research Intern @ DRDO
-- 📜 Patent Holder — LPG Cylinder Monitoring & Leak Alert System (No. 202421033238)
-- 🌐 Open source contributor to **aiohttp** and **Memori**
+- 🔬 **Ex-Research** Intern @ DRDO
+- 📜 **Patent Holder** — LPG Cylinder Monitoring & Leak Alert System (No. 202421033238)
+- 🌐 **Open source contributor** to **aiohttp**, **Memori**, and **Zephyr**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/ashutosh-kumar-singh-255506287/)
 [![Email](https://img.shields.io/badge/Email-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:ashutoshhjp1067@gmail.com)
@@ -56,7 +55,7 @@ I build **web applications**, **embedded systems**, and **robotic platforms**, a
 
 ### 🌐 Open Source Contributions
 
-> Merged pull requests fixing real bugs in widely-used Python libraries.
+> Merged pull requests fixing real bugs in widely-used Python libraries and embedded RTOS platforms.
 
 <table>
   <tr>
@@ -88,6 +87,20 @@ I build **web applications**, **embedded systems**, and **robotic platforms**, a
       Fixed async API methods ignoring the configured request timeout (hardcoded 30s).
       Routed all async calls through <code>Config.request_secs_timeout</code> and added
       unit tests asserting the timeout is forwarded correctly.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/zephyrproject-rtos/zephyr/pull/109399"><b>Zephyr</b></a><br/>
+      <sub>Scalable real-time operating system (RTOS)</sub>
+    </td>
+    <td>
+      Fixed out-of-bounds <code>memcpy</code> operations in the SD card subsystem when reading and writing
+      unaligned buffers. Clamped requested block count using <code>MIN()</code> on final loop iterations.
+      <br/><sub>Fixes <a href="https://github.com/zephyrproject-rtos/zephyr/issues/108627">#108627</a></sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github&logoColor=white"/>
