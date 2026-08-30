@@ -11,7 +11,8 @@
 
 I build **web applications**, **embedded systems**, and **robotic platforms**, and I care about systems that are practical, reliable, and well-engineered end-to-end.
 
-- 🎓 B.Tech in ICT @ Marwadi University — CGPA 8.42
+- Robotics and AI/ML Engineer at Source Soft Solutions, Noida, India
+- 🎓 B.Tech in ICT @ Marwadi University — CGPA 8.42, Graduating in 2027
 - 🔬 **Ex-Research** Intern @ DRDO
 - 📜 **Patent Holder** — LPG Cylinder Monitoring & Leak Alert System (No. 202421033238)
 - 🌐 **Open source contributor** to **aiohttp**, **Memori**, and **Zephyr**
