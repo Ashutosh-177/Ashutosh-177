@@ -16,6 +16,7 @@ I build **web applications**, **embedded systems**, and **robotic platforms**, a
 - 🔬 **Ex-Research** Intern @ DRDO
 - 📜 **Patent Holder** — LPG Cylinder Monitoring & Leak Alert System (No. 202421033238)
 - 🌐 **Open source contributor** to **aiohttp**, **Memori**, and **Zephyr**
+- 10x National Hackathon Winner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/ashutosh-kumar-singh-255506287/)
 [![Email](https://img.shields.io/badge/Email-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:ashutoshhjp1067@gmail.com)
